@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Astral Logger
+  Astral Logger 🌙💜
   <br>
 </h1>
 
@@ -24,8 +24,28 @@ Astral Logger is for educational purposes to show what an attacker can steal fro
 
 ### How do I build a payload?
 
-Please follow the guide in [/setup/BUILD.md] 💜
+> Please follow the setup guide in [Guide](/setup/BUILD.md) 💜
 
 ### Is there a Discord for help?
 
-Yes! [Click here to join our Discord](https://discord.gg/xF4hQj3bbJ)
+> Yes! [Click here to join our Discord](https://discord.gg/xF4hQj3bbJ) 💬
+
+### Upcoming features
+
+> To view upcoming features, check out the roadmap in [Roadmap](/info/ROADMAP.md) 🗺️
+
+### Current features
+
+* Steal Chrome passwords
+* Steal Chrome cookies
+* Steal Chrome credit cards
+* Upload all data encrypted to anonfiles
+* Gather information about the user's system and IP address
+
+<h1 align="center">
+  <br>
+  Astral Logger 🌙💜
+  <br>
+</h1>
+
+<h4 align="center">Please leave a 🌟 (Haha, Astral) if you enjoy this project! 😁</h4>
