@@ -15,7 +15,7 @@ class AstralBuilder:
 ██╔══██║╚════██║   ██║   ██╔══██╗██╔══██║██║
 ██║  ██║███████║   ██║   ██║  ██║██║  ██║███████╗
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-Made by punchmade#0333 || Github: https://github.com/nickdev2/astral-logger
+Made by flow#0333 || Github: https://github.com/nickdev2/astral-logger
 Version 1.0
 {Fore.WHITE}{Style.BRIGHT}
 """.replace("█", f"{Fore.WHITE}█{Fore.MAGENTA}"))
